@@ -1,2 +1,2 @@
 # Viper Android
-Viper Android template on kotlin
+Viper Architecture on kotlin
