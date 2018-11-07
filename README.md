@@ -1,2 +1,2 @@
-# viper-android
-Viper Android Template
+# Viper Android
+Viper Android template on kotlin
